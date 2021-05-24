@@ -6,7 +6,7 @@
 
 + I am currently learning JS 💻, Python 🐍, SQL and C# for Unity game development 🎮
 
-+ I am planning to make many Discord bots 🤖 and Games 🎮 for everyone while I am currently working on my website Hexort 🌐
++ I am planning to make many Discord bots 🤖 and Games 🎮 for everyone while I am currently working on my website, Hexort 🌐
 
 + You can reach me through Discord - Saavya</>#1885 🖥️ or send me an Email at sumantratechsoft@gmail.com ✉️
 
