@@ -2,7 +2,7 @@
 
 #### I am Saavya Awasthi 😄
 
-+ I am a 13 year old and just doing some stuff on github 😎
++ I am a 13 year old from India and just doing some stuff on github 😎
 
 + I am currently learning JS 💻, Python 🐍, SQL and C# for Unity game development 🎮
 
