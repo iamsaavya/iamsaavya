@@ -12,7 +12,7 @@
 
 +I love to sing 🎤, swim 🏊, code 🖱️ , read 📖, play the piano, and discover new things 😃
 
-P.S. I also like to eat Waffles 🧇 :*
+P.S. I also like to eat Waffles 🧇 
 <!--
 **SaavyaAwasthi/SaavyaAwasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
