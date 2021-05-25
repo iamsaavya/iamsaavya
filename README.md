@@ -10,9 +10,9 @@
 
 + You can reach me through Discord - Saavya</>#1885 🖥️ or send me an Email at sumantratechsoft@gmail.com ✉️
 
-+I love to sing 🎤, swim 🏊, code 🖱️ , read 📖, play the piano, and discover new things 😃
++ I love to sing 🎤, swim 🏊, code 🖱️ , read 📖, play the piano, and discover new things 😃
 
-P.S. I also like to eat Waffles 🧇 
+Fun Fact: I like to eat Waffles 🧇 
 <!--
 **SaavyaAwasthi/SaavyaAwasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
