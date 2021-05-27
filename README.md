@@ -13,8 +13,6 @@
 + Join my Discord server : [Hexort's Discord Server](https://discord.gg/shdC7Gcnp2)    
 
 
-Fun Fact: I like to eat Waffles 🧇
-
 
 ⫸[Twitter](https://twitter.com/SaavyaAwasthi)⫷   •   ⫸[Instagram](https://www.instagram.com/saavyaawasthi_/)⫷   •   ⫸[Reddit](https://www.reddit.com/user/SaavyaAwasthi)⫷   •    ⫸Discord : Saavya</>#1885⫷ • ⫸[Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDFLXZRdkxVQNVkZLqXNPWRhvDCJGmpRznhwTvssrtnhTbsctcHBTpknqrXVJsgTclQq)⫷
 
