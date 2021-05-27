@@ -6,7 +6,7 @@
 
 + I'm currently learning JS 💻, Python 🐍, SQL and C# for Unity game development 🎮
 
-+ I plan to make many Discord bots 🤖 and Games 🎮 for everyone while I am currently working on my website, Hexort 🌐
++ I plan to make many Discord bots 🤖 and Games 🎮  while I am currently working on my website, Hexort 🌐
 
 + I love to sing 🎤, swim 🏊, code 🖱️ , read 📖, play the piano, and discover new things 😃
 
