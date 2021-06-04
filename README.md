@@ -31,5 +31,5 @@
   
 </ul> <br> <br> 
 
-<h1 align="center"> Contact Me : <hr> </h1><br>
+<h1 style.less = "border-bottom: none" align="center"> Contact Me : <hr> </h1><br>
 
