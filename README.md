@@ -35,7 +35,7 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a>
 
 <h1 align = "right">
-   <div align="right"> Technologies I know and wish to learn </div>
+   <div align="right"> <= Technologies I know and wish to learn </div>
  </h1>
    <br>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
@@ -57,16 +57,13 @@
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
  </p> <br>
 
-
-
-
-<h1 align = "center" > Contact Me: </h1>
-
 <hr> <br>
  
    
-   <p align="left" width="350px"> <img src="https://github-readme-stats.vercel.app/api/?username=SaavyaAwasthi&count_private=true&theme=tokyonight&show_icons=true"> </p> <br>
-   <p align="left" width="350px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaavyaAwasthi&langs_count=5&theme=tokyonight"> </p>
+   <p align="left" width="350px"> <img src="https://github-readme-stats.vercel.app/api/?username=iamsaavya&count_private=true&theme=tokyonight&show_icons=true"> </p>
+   <p align ="right" width="350px">
+   <br>
+   <p align="left" width="350px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaavya&langs_count=5&theme=tokyonight"> </p>
    
   
    
