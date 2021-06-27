@@ -7,11 +7,11 @@
   <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
   
 <ul>
+  <li> <h3 align="left"> <i><b> I am a 13 year old Developer from India </b></i> </h3> </li> <br>
+  <li> <h3 align="left"> <i><b>  </b></i> </h3> </li> <br>
   <li> <h3 align="left"> <i><b> </b></i> </h3> </li> <br>
   <li> <h3 align="left"> <i><b> </b></i> </h3> </li> <br>
-  <li> <h3 align="left"> <i><b> </b></i> </h3> </li> <br>
-  <li> <h3 align="left"> <i><b> </b></i> </h3> </li> <br>
-  <li> <h3 align="left"> <i><b> </b></i> </h3> </li> <br> <br>
+ <br>
   
 </ul>
   
