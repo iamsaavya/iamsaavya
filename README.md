@@ -24,13 +24,15 @@
 </div> 
 <h1 align ="center" width="350px"> Contact Me : </h1>
 <hr>
-
-<div>
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>   
+<div align = "center">
+<a href="https://twitter.com/iamsaavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsaavya" width="100" /></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
+<a href="https://instagram.com/iamsaavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsaavya" width="100" /></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
+<a href="https://www.youtube.com/c/saavya awasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saavya awasthi" width="100" /></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvPgDcShZsjSVBqFZmJWwvMLPPhlXFhvffVDvHMdLNmvdKKDxPhWGmCtBQNWbqMktsvV"> <img align="center" src="https://image.flaticon.com/icons/png/512/552/552486.png" width=100/> </a>
    
-</div>
-
-   
-  
+  </div>
    
 
