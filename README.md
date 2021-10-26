@@ -1,6 +1,4 @@
 
-
-<img style= "align: left;" src="https://komarev.com/ghpvc/?username=SaavyaAwasthi&label=Profile%20views&color=eb3734&style=flat" />
 <h1 align="center"> Hello There! I am Saavya Awasthi </h1> <br>
 <p>
    <br>
