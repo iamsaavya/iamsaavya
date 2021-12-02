@@ -22,11 +22,11 @@
 </div> 
 <br> <br> <br>
 <div align = "center">
-<a href="https://twitter.com/iamsaavya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsaavya" width="100" /></a>
+<a href="https://twitter.com/saaviyosum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsaavya" width="100" /></a>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
-<a href="https://instagram.com/iamsaavya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsaavya" width="100" /></a>
+<a href="https://instagram.com/saaviyosum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsaavya" width="100" /></a>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
-   <a href="https://www.reddit.com/u/SaavyAwasthi"> <img align = "center" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" width=100 /> </a>
+   <a href="https://www.reddit.com/u/saaviyosum"> <img align = "center" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" width=100 /> </a>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
 <a href="https://www.youtube.com/channel/UCfduWtSP1S-cZ7IRZXUcwbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saavya awasthi" width="100" /></a>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TransparentPlaceholder.png/120px-TransparentPlaceholder.png" width=50/>
