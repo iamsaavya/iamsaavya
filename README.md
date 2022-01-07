@@ -11,11 +11,11 @@
   <li> <h3 align="left"> <i><b> also, I am currently working on my own Blog Website! </b></i> </h3> </li>
   
 </ul>
+
+</p>
 <div>
    
    <img src="https://github-readme-stats.vercel.app/api/?username=iamsaavya&count_private=true&theme=radical&show_icons=true">
    
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaavya&theme=radical&layout=compact">
 </div>
-
-</p>
